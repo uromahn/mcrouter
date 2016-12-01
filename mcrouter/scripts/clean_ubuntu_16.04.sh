@@ -2,7 +2,7 @@
 
 set -ex
 
-sudo apt-get install -y libdouble-conversion1 libgflags2 \
+sudo apt-get install -y libdouble-conversion1v5 libgflags2v5 \
     libboost-program-options1.58.0 libboost-filesystem1.58.0 \
     libboost-system1.58.0 libboost-regex1.58.0 libboost-thread1.58.0 \
     libboost-context1.58.0 libgoogle-glog0v5 libevent-2.0-5 libjemalloc1
